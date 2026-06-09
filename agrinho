@@ -1,0 +1,22 @@
+# Projeto Agrinho 2024: [Nome do seu Tema]
+
+## 🌿 Sobre o Projeto
+Uma breve descrição de qual problema do campo você está resolvendo. 
+Exemplo: "Sistema de monitoramento de umidade para hortas escolares."
+
+## 🚀 Funcionalidades
+* Monitoramento em tempo real via sensores.
+* Interface amigável para produtores rurais.
+* Baixo custo de implementação.
+
+## 🛠️ Tecnologias Utilizadas
+* **Linguagem:** Python / C++ (Arduino)
+* **Hardware:** ESP32 / Sensores de Solo
+* **Plataforma:** GitHub para versionamento
+
+## 📄 Documentação
+O relatório completo em PDF e as referências bibliográficas encontram-se na pasta `/docs`.
+
+---
+📌 **Desenvolvido por:** [Seu Nome ou Nome do Grupo]  
+🏫 **Escola:** [Nome da Instituição]
